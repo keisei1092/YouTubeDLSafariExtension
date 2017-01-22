@@ -37,4 +37,4 @@ bundle install
 ruby server.rb
 ```
 
-(Managing [rodreegez / powder](https://github.com/rodreegez/powder) will be better :+1:)
+(Manage server using [rodreegez / powder](https://github.com/rodreegez/powder) will be better :+1:)
