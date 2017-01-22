@@ -1,5 +1,7 @@
 # YouTubeDLSafariExtension
 
+<img src="./screen_shot.png" width="500" />
+
 ## Usage
 
 ```bash
