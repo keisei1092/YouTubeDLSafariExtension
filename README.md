@@ -1,6 +1,8 @@
 # YouTubeDLSafariExtension
 
-<img src="./screen_shot.png" width="500" />
+<p align="center">
+  <img src="./screen_shot.png" width="500" />
+</p>
 
 ## Usage
 
